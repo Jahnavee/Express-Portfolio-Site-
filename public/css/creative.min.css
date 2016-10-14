@@ -438,3 +438,15 @@ header {
     height: 180px;
 
 }
+
+label {
+    display: block;
+}
+
+input, textarea {
+    padding: 15px!important;
+    width: 95%!important;
+    border-radius: 0!important;
+}
+
+.form-control {height: auto!important;}
